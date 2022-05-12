@@ -1,0 +1,60 @@
+.hedder4 {
+	margin: 0px;
+	color: #A1A4A2;
+	font-weight: bold;
+    font-family: Arial;
+}
+.sidebar{
+    margin: 0 20 40 -10;
+    background: rgb(110, 213, 250);
+    position: fixed;
+    width: 80px;
+    height:2000%;  
+}
+nav{
+    position: fixed;
+    top:25px;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    padding: 10px 90px;
+    box-sizing: border-box;
+    background: rgb(196, 194, 194);
+}
+button{
+    background:rgb(92, 11, 233) ;
+    color:white;
+    width:10%;
+    cursor: pointer;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+
+}
+input[type="text"]{
+    width: 20%;
+    height: 30px;
+    border: 2px solid #a6a6a6 ;
+    border-radius: 2px;
+}
+.stexam{
+    margin: 100 0 0 100;
+}
+table,th,td{
+    width: 1400px;
+    margin: auto;
+    font-size: 12px;
+    padding: 15px;
+    border: 2px solid rgb(194, 194, 194);
+    border-collapse: collapse;
+    text-align: start;
+    font-family: Arial;
+}
+th{
+    background: rgb(110, 213, 250);
+    
+}
+.stexam1{
+    margin: 40 0 0 100 ;
+    padding: 20px;
+}

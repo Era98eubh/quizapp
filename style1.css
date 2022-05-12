@@ -1,0 +1,76 @@
+.hedder2 {
+	margin: 0px 0 0 0;
+	color: #A1A4A2;
+	font-weight: bold;
+    font-family: Arial;
+}
+.main{
+    margin:120 0 0 100;
+}
+.sidebar{
+    margin: 0 20 40 -10;
+    background: rgb(110, 213, 250);
+    position: fixed;
+    width: 80px;
+    height:2000%;  
+}
+nav{
+    position: fixed;
+    top: 25px;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    padding: 10px 90px;
+    box-sizing: border-box;
+    background: rgb(196, 194, 194);
+}
+.er1{
+    background:rgb(92, 11, 233) ;
+    color:white;
+    width:10%;
+    cursor: pointer;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+input[type="text"]{
+    width: 20%;
+    height: 30px;
+    border: 2px solid #a6a6a6 ;
+    border-radius: 2px;
+}
+.er2{
+    float: right;
+    background: rgb(29, 181, 138);
+    color:white;
+    width:10%;
+    cursor: pointer;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.texam{
+    margin: 40 0 -20 0 ;
+    padding: 20px;
+}
+table,th,td{
+    width:1400px;
+    margin: auto;
+    font-size: 12px;
+    font-family:Arial;
+    padding: 20px;
+    text-align:start;
+    border: 2px solid rgb(194, 194, 194);
+    border-collapse: collapse;
+}
+th{
+    background: rgb(110, 213, 250);
+}
+.er0{
+    width: 30%;
+    height: 30px;
+    border: 2px solid #a6a6a6 ;
+    border-radius: 2px;
+    padding: 0 0 0 0;
+    margin: 0 0 0 800;
+}

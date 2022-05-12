@@ -1,0 +1,121 @@
+.hedder6 {
+	margin: 0px 0 0 0;
+	color: #A1A4A2;
+	font-weight: bold;
+    font-family: Arial;
+}
+.sidebar{
+    margin: 0 20 40 -10;
+    background: rgb(110, 213, 250);
+    position: fixed;
+    width: 80px;
+    height:2000%;  
+}
+nav{
+    position: fixed;
+    top: 25px;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    padding: 10px 90px;
+    box-sizing: border-box;
+    background: rgb(196, 194, 194);
+}
+
+button{
+    width: auto;
+    height: 50;
+    margin: 50 0 0 100;
+    cursor: pointer;
+}
+
+
+#my2 {
+	padding: 0px 20px 0px 0px;
+}
+
+.ax1 {
+	margin: 50px 0px 0px 100px;
+    font-family: Arial;
+}
+
+.center {
+	text-align: center;
+}
+
+.border {
+	border: 1px white solid;
+	margin: 0% 35% 0% 35%;
+	
+}
+
+.border2 {
+	border: 2px #A1A4A2 solid;
+	margin: 0 20 20 20;
+	padding-left: 5%;
+}
+
+
+
+.ax2 {
+	margin: 1% 0% 1% 1%;
+}
+
+.ax3 {
+	position:absolute;
+	left: 40%;
+	padding: 4px 15px 4px 50px;
+	background-color: #A1A4A2;
+	border-radius: 4px;
+	cursor: pointer;
+    width: 70;
+    text-align: center;
+}
+
+.ax4 {
+	position:absolute;
+	right : 33%;
+	padding: 4px 15px 4px 15px;
+	background-color: #A1A4A2;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.rg {
+	text-align: right;
+	margin: 10px;
+}
+
+.ax5 {
+	padding: 4px 15px 4px 15px;
+	margin: 6px;
+	color: white;
+	background-color: green;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.ax6 {
+	padding: 4px 15px 4px 15px;
+	background-color: blue;
+	color: white;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.ex_name{
+	width: 100px;
+	height: 40px;
+	padding: 5px;
+	padding-top: 10px;
+	text-align: center;
+	
+	border: 2px solid rgb(141, 139, 139);
+}
+table,th,td{
+    font-size: 15px;
+    padding: 20px;
+    border: 2px solid rgb(194, 194, 194);
+    border-collapse: collapse;
+    text-align: start;
+    font-family: Arial;
+}
